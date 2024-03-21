@@ -44,7 +44,7 @@ For support, issues, or feature requests, please [open an issue](https://github.
 
 ## Suggestions and Contributions
 
-Your feedback and suggestions are invaluable to us! If you have ideas on how to improve `ninjacord-webhook-translator`, or if you'd like to contribute to the project, we'd love to hear from you.
+Your feedback and suggestions are invaluable to me! If you have ideas on how to improve `ninjacord-webhook-translator`, or if you'd like to contribute to the project, we'd love to hear from you.
 
 ### How to Contribute:
 
